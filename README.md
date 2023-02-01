@@ -1,4 +1,4 @@
-Ansible Role: SonarQube ([lrk.sonarqube]()
+Ansible Role: SonarQube ()
 =========
 
 
